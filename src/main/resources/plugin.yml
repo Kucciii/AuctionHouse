@@ -1,0 +1,9 @@
+name: AuctionHouse
+version: '${project.version}'
+main: me.kucciii.auctionhouse.AuctionHouse
+authors: [ kucciii_ ]
+description: A Hypixel-Skyblock Auction House replica!
+
+commands:
+  ah:
+    description: Open Auction House Inventory
